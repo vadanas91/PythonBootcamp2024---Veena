@@ -21,8 +21,13 @@ def add(a,b):
 # add(num1, num2)
 
 # another way:
-num1 = input("number 1: ")
-num2 = input("number 2: ")
-num1 = int(num1)
-num2 = int(num2)
-add(num1, num2)
+# num1 = input("number 1: ")
+# num2 = input("number 2: ")
+# num1 = int(num1)
+# num2 = int(num2)
+# add(num1, num2)
+
+HW 1:
+1. Ask the user for their name and age, then greet them by name, and tell them how old they will be in 100
+   years. Use f-strings, not concatenation.
+2. Create a tip calculator program using functions and user input. Use a return statement in your function.
